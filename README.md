@@ -1,4 +1,5 @@
 # botnet
+For educational purposes only!
 A simple botnet, still at a very early stage of development
 
 It most likely has a very strange appearance,
